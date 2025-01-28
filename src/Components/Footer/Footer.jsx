@@ -11,9 +11,9 @@ export default function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.twitter.com/RoshanCodes_"
+          href=""
         >
-          Roshan Kumar Sharma
+          Kaval Patel
         </a>
       </p>
     </footer>
